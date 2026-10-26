@@ -1,0 +1,7 @@
+*.wav
+*.mp4
+frames.txt
+video_frames/
+*.db
+.DS_Store
+.env
